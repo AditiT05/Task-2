@@ -1,4 +1,3 @@
 # Task-2
 This is a simple and interactive To-Do List web application built using HTML, CSS, and JavaScript in a single index.html file. The app allows users to add tasks, mark them as completed, delete tasks, and automatically save them using the browser’s localStorage. The interface is clean and responsive, featuring a centered card layout, styled task items, and smooth hover effects for better user experience.
-
 The project demonstrates DOM manipulation, event handling, and client-side data storage without using any external libraries or frameworks. Through this project, I strengthened my understanding of JavaScript functions, dynamic element creation, localStorage usage, and responsive UI design using CSS Flexbox. This application helped improve my foundational front-end development skills and practical problem-solving ability.
